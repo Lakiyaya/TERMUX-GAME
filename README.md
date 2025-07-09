@@ -12,3 +12,8 @@
 
 ```bash
 pkg install python
+
+
+git clone https://github.com//Termux-GAME.git
+cd Termux-Game-Guessing
+python guess.py
